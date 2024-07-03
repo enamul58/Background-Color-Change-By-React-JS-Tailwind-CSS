@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .btn {
+    padding: 4px 10px;
+    border-radius: 8px;
+    color: #fff;
+  }
+}
